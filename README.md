@@ -143,6 +143,8 @@ How to connect source code with cloud deployment.
 How to host a website on the cloud.
 How to make a web application publicly accessible.
 Basic concepts of cloud computing and deployment.
+
+
 📊 Project Information
 Item	Details
 Project Name	Azure Portfolio
@@ -157,17 +159,6 @@ Status	Deployed
 Public Access	Yes
 👨‍💻 Author
 Shivam Akash
-
-Student
-
-🔗 Important Links
-🌍 Live Website
-
-https://shivam-azure-portfolio-gtb0hjarh4atbjg4.centralindia-01.azurewebsites.net
-
-💻 GitHub Repository
-
-https://github.com/shivamakashproj/azure-portfolio
 
 📄 License
 
