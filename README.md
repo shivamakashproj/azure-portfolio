@@ -4,7 +4,7 @@
 
 **A personal portfolio website built with HTML, CSS &amp; JavaScript, deployed on Microsoft Azure**
 
-[![Live Demo](https://img.shields.io/badge/🌍_Live_Demo-Visit_Site-2ea44f?style=for-the-badge)](https://shivam-azure-portfolio-gtb0hjarh4atbjg4.centralindia-01.azurewebsites.net)
+[![Live Demo](https://img.shields.io/badge/🌍_Live_Demo-Visit_Site-2ea44f?style=for-the-badge)](https://shivam-portfolio-web-aqbxezhmadedhved.centralindia-01.azurewebsites.net/)
 [![GitHub Repo](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shivamakashproj/azure-portfolio)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
