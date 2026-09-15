@@ -54,7 +54,7 @@ The website showcases:
 ## 🚀 Live Demo
 
 > 🌍 **Live Portfolio Website:**
-> **[shivam-azure-portfolio.azurewebsites.net](https://shivam-azure-portfolio-gtb0hjarh4atbjg4.centralindia-01.azurewebsites.net)**
+> **[shivam-azure-portfolio.azurewebsites.net](https://shivam-portfolio-web-aqbxezhmadedhved.centralindia-01.azurewebsites.net/)**
 
 > 💻 **Source Code (GitHub):**
 > **[github.com/shivamakashproj/azure-portfolio](https://github.com/shivamakashproj/azure-portfolio)**
